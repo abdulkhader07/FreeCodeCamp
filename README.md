@@ -4,7 +4,7 @@ learning new tech
 # All about terminal
 
 # Saying hello :
--> echo hello terminal \n
+-> echo hello terminal 
 -> echo text >> file name
 #eg : echo I made this boilerplate >> README.md
 
