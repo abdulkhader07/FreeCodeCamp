@@ -19,20 +19,23 @@ pwd
 ```bash
 ls
 ```
-#ls stand for list
+-ls stand for list
 
-# To change the directory in a folder:
--> cd <folder_name>
+## To change the directory in a folder:
+```bash
+cd <folder_name>
+```
 #cd stands for change directory
 #eg : cd freeCodeCamp
 
-# Colour code for folders and files:
-for folders : blue
-for files   : include their extension
-for images  : pink (jpg, png, jpeg ,svg etc)
-for font    : basic black 
+## Colour code for folders and files:
+1. for folders : blue
+2. for files   : include their extension
+3. for images  : pink (jpg, png, jpeg ,svg etc)
+4. for font    : basic black 
 
-#Remember folder and directory are same thing
+
+@@Remember folder and directory are same thing@@
 
 # To go back one level of directory:
 -> cd ..
