@@ -58,7 +58,7 @@ clear
 ```terminal
 ls <flag>
 ```
-#eg : ls -l
+#eg : ls -l <br>
 #eg : ls --help
 
 ## To go back two levels of directory:
@@ -83,7 +83,7 @@ echo <something>
 ```terminal
 touch <somthing>
 ```
-#eg : touch index.html
+#eg : touch index.html <br>
 #eg : touch client/assets/fonts/roboto-bold.woff
 
 ## To turn the folder into a git repository:
@@ -101,39 +101,55 @@ ls --all
 -> ls -a
 ```
 
-# To copy the file to another folder:
--> cp <file_name> <folder_name>
+## To copy the file to another folder:
+```terminal
+cp <file_name> <folder_name>
+```
 #eg : cp background.jpg images
 
-# To remove a file :
--> rm <file_name>
+## To remove a file :
+```terminal
+rm <file_name>
+```
 #eg : rm background.jpg
 
-# To move or change the extension:
--> mv <filename> <new_filename>
+## To move or change the extension:
+```terminal
+mv <filename> <new_filename>
+```
 #eg : mv photos/footer.jpeg client/assets/images
 
-# To find things or view a file tree:
--> find
--> find <folder_name>
--> find -name <file_name>
-#eg : find client
-#eg : find -name index.html
-#eg : find client/assets/fonts
+## To find things or view a file tree:
+```terminal
+find
+find <folder_name>
+find -name <file_name>
+```
+#eg : find client <br>
+#eg : find -name index.html <br>
+#eg : find client/assets/fonts <br>
 
-# To create a folder from outside:
--> mkdir <>/<>
+## To create a folder from outside:
+```terminal
+mkdir <>/<>
+```
 #eg : mkdir client/src
 
-# To remove the directory:
--> rmdir <directory_name>
+## To remove the directory:
+```terminal
+rmdir <directory_name>
+```
 
-# To remove files and directoy togeather:
--> rm -r <folder_name>
+## To remove files and directoy togeather:
+```terminal
+rm -r <folder_name>
+```
 # -r stands for recursive flag
 
-# To exit the terminal :
--> exit
+## To exit the terminal :
+```terminal
+exit
+```
 
 
 
