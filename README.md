@@ -4,25 +4,25 @@ learning new tech
 # All about terminal
 
 ## Saying hello :
-```bash
+```terminal
 echo hello terminal 
 echo text # file name
 ```
 #eg : echo I made this boilerplate >> README.md
 
 ## To check the path:
-```bash
+```terminal
 pwd    
 ```
 
 ## To check whats there in the folder:
-```bash
+```terminal
 ls
 ```
 -ls stand for list
 
 ## To change the directory in a folder:
-```bash
+```terminal
 cd <folder_name>
 ```
 #cd stands for change directory
@@ -34,14 +34,19 @@ cd <folder_name>
 3. for images  : pink (jpg, png, jpeg ,svg etc)
 4. for font    : basic black 
 
-
+```diff
 @@Remember folder and directory are same thing@@
+```
 
-# To go back one level of directory:
--> cd ..
+## To go back one level of directory:
+```terminal
+cd ..
+```
 
-# To see whats there in a file :
--> more <filename>
+## To see whats there in a file :
+```terminal
+more <filename>
+```
 #eg : more package.json 
 
 # To clear the terminal
