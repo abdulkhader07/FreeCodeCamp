@@ -3,16 +3,19 @@ learning new tech
 
 # All about terminal
 
-# Saying hello :
--> echo hello terminal 
-
--> echo text >> file name
+## Saying hello :
+```bash
+echo hello terminal 
+echo text # file name
+```
 #eg : echo I made this boilerplate >> README.md
 
-# To check the path:
--> pwd    
+## To check the path:
+```bash
+pwd    
+```
 
-# To check whats there in the folder:
+## To check whats there in the folder:
 -> ls
 #ls stand for list
 
