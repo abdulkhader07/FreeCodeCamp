@@ -16,7 +16,9 @@ pwd
 ```
 
 ## To check whats there in the folder:
--> ls
+```bash
+ls
+```
 #ls stand for list
 
 # To change the directory in a folder:
