@@ -49,40 +49,57 @@ more <filename>
 ```
 #eg : more package.json 
 
-# To clear the terminal
--> clear
+## To clear the terminal
+```terminal
+clear
+```
 
-# To flag a folder's file:
--> ls <flag>
+## To flag a folder's file:
+```terminal
+ls <flag>
+```
 #eg : ls -l
 #eg : ls --help
 
-# To go back two levels of directory:
--> cd ../..
+## To go back two levels of directory:
+```terminal
+cd ../..
+```
 #here you are using / for multiple levels
 
-# To make a new folder :
--> mkdir <folder_name>
+## To make a new folder :
+```terminal
+mkdir <folder_name>
+```
 #mkdir stands for make new directory
 
-# To print something :
--> echo <something>
+## To print something :
+```terminal
+echo <something>
+```
 #eg : echo hello website
 
-# To create a new file in a folder:
--> touch <somthing>
+## To create a new file in a folder:
+```terminal
+touch <somthing>
+```
 #eg : touch index.html
 #eg : touch client/assets/fonts/roboto-bold.woff
 
-# To turn the folder into a git repository:
--> create a file by (touch .gitignore) in the folder
+## To turn the folder into a git repository:
+```terminal
+create a file by (touch .gitignore) in the folder
+```
 
-
-# To list out all the file in a repository:
+## To list out all the file in a repository: <br>
 because .gitignore file is hidden to see it we will use --all cmd
--> ls --all
+```terminal
+ls --all
+```
    or
+```terminal
 -> ls -a
+```
 
 # To copy the file to another folder:
 -> cp <file_name> <folder_name>
